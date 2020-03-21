@@ -28,7 +28,7 @@ const AccountSchema = new Schema({
     type: String
   },
   accountSubtype: {
-    type: String
+    type: Srings
   }
 });
 
